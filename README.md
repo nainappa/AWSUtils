@@ -8,5 +8,5 @@ snsClient = new AmazonSNSClient(new BasicAWSCredentials("<Your AccessKey>","<You
 ```
 
 ### Support
-For support please visit the Autobahn-Support HipChat room.
+For support and more details visit https://aws.amazon.com/free/?sc_channel=PS&sc_campaign=acquisition_US&sc_publisher=google&sc_medium=cloud_computing_hv_b&sc_content=aws_core_e_control_q32016&sc_detail=aws&sc_category=cloud_computing&sc_segment=188908133959&sc_matchtype=e&sc_country=US&s_kwcid=AL!4422!3!188908133959!e!!g!!aws&ef_id=WRPX3QAAAIfC_lzd:20170805224831:s.
 
